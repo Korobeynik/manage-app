@@ -1,7 +1,7 @@
 <template>
   <Header />
   <div class="add">
-    <img class="logo" alt="Vue logo" src="../assets/logo.svg" />
+    <div class="logo-block"></div>
     <h1>Update Restaurant</h1>
     <v-form @submit.prevent="updateRestaurant">
       <v-container style="max-width: 400px">

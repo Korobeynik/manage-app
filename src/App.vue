@@ -23,4 +23,10 @@ nav {
     }
   }
 }
+.logo-block {
+  width: 400px;
+  height: 200px;
+  background-image: url("~@/assets/logo.svg");
+  margin: auto;
+}
 </style>

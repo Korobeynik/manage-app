@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "test",
+      "email": "test@te.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Yura",
+      "email": "korobeynik77@gmail.com",
+      "password": "11111111",
+      "id": 29
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "address": "LA avenue 255",
+      "phone": "554242342"
+    },
+    {
+      "name": "KFC",
+      "address": "Milan avenue AA 455",
+      "phone": "222222",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Repel",
+      "address": "Hamburg avenue AA 455",
+      "phone": "554242342"
+    }
+  ]
+}
